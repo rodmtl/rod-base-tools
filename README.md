@@ -1,8 +1,16 @@
 # Rod base tools
 
-Repo to save a list of my day to day work tools/software
+## Introduction:
 
-Also some scripts to automatise the installation of some of them.
+Repo to save a list of my day to day work tools/software, also some scripts to automatise the installation of some of them.
+
+## Initial step
+
+Since the installation is based on PShell scripts first of all you need to install Powershell:
+
+- [Powershell instructions](powershell.md)
+
+## Base software list
 
 - Draw.io
 - Notion
@@ -64,6 +72,12 @@ Also some scripts to automatise the installation of some of them.
   - vscjava.vscode-java-test
   - vscjava.vscode-maven
   - vscode-icons-team.vscode-icons
+
+**To install all basic tools execute:**
+
+```powershell
+.\main.ps1
+```
 
 ## Notes
 

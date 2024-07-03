@@ -26,3 +26,9 @@ choco install drawio -y
 choco install notion -y
 # install docker desktop   
 choco install docker-desktop -y
+# install visual studio 2022 professional
+choco install visualstudio2022professional -y
+# install windows terminal  
+choco install microsoft-windows-terminal -y
+# install oh my posh    
+choco install oh-my-posh -y
