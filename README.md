@@ -67,4 +67,4 @@ Also some scripts to automatise the installation of some of them.
 
 ## Notes
 
-- Sometimes you need to configure a SSH key to puch to github check [here](vscode-git-auth.md).
+- Sometimes you need to configure a SSH key to push to github check [here](vscode-git-auth.md).
