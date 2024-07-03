@@ -8,9 +8,14 @@ Also some scripts to automatise the installation of some of them.
 - Notion
 - Docker desktop
 - Terminal + ohmyposh
+- nodeJs
+- yarn
+- npm
 - Chrome
 - Firefox
-- Visual studio YYYY 
+- Postman
+- 7Zip
+- Visual studio YYYY
 - Vscode Plugins:
   - alexandreramos.vulgocode-color-theme
   - bierner.markdown-checkbox
@@ -60,3 +65,6 @@ Also some scripts to automatise the installation of some of them.
   - vscjava.vscode-maven
   - vscode-icons-team.vscode-icons
 
+## Notes
+
+- Sometimes you need to configure a SSH key to puch to github check [here](vscode-git-auth.md).
